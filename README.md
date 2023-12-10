@@ -16,7 +16,7 @@ I am Alex from Argentina, and I am a front-end developer (HTML, CSS, Javascript 
 <a href="https://codesandbox.com/alexalphacore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alexalphacore" height="30" width="40" /></a>
 <a href="https://instagram.com/alexiocore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexiocore" height="30" width="40" /></a>
 </p>
-<a href="https://instagram.com/alexiocore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexlorenzo97.2.0" height="30" width="40" /></a>
+<a href="https://instagram.com/alexlorenzo97.2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexlorenzo97.2.0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
